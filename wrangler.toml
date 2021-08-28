@@ -1,0 +1,7 @@
+name = "cache-clear-webhook"
+type = "javascript"
+
+account_id = "ece1d09b06af2ced51407c97505ea0cc"
+workers_dev = false
+route = "cache.erisa.dev/*"
+zone_id = "646ba217907c7b8629171cdeb0b775d1"
